@@ -5,3 +5,6 @@ Learn Machine to recognize faces.
   - just use images and run CNN with simple layers and get accuracy on train and validation set
   - manual image cropping and compare results
 2. 
+
+
+python -m pip install opencv-python
