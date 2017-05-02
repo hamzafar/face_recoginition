@@ -16,3 +16,5 @@ Used Resnet wieghts to predict the class of images.
 Used Webcam and feed real time frame to model to predict class
 
 Now Fine tuning model with new classes, with faces
+
+focus to load data with same size and transfer learning
