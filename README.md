@@ -12,3 +12,4 @@ https://www.solarianprogrammer.com/2016/09/17/install-opencv-3-with-python-3-on-
 
 
 Sor far done,
+Used Resnet wieghts to predict the class of images.
