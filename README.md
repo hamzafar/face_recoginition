@@ -9,3 +9,6 @@ Learn Machine to recognize faces.
 
 For installation opencv on python 3.5 follow this tutorial:
 https://www.solarianprogrammer.com/2016/09/17/install-opencv-3-with-python-3-on-windows/
+
+
+Sor far done,
