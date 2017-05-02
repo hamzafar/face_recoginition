@@ -14,3 +14,5 @@ https://www.solarianprogrammer.com/2016/09/17/install-opencv-3-with-python-3-on-
 Sor far done,
 Used Resnet wieghts to predict the class of images.
 Used Webcam and feed real time frame to model to predict class
+
+Now Fine tuning model with new classes, with faces
