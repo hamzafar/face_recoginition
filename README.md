@@ -18,3 +18,6 @@ Used Webcam and feed real time frame to model to predict class
 Now Fine tuning model with new classes, with faces
 
 focus to load data with same size and transfer learning
+
+https://groups.google.com/forum/#!topic/keras-users/JDnLxlm3sHM
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
