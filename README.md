@@ -21,3 +21,5 @@ focus to load data with same size and transfer learning
 
 https://groups.google.com/forum/#!topic/keras-users/JDnLxlm3sHM
 https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
+Compile report
