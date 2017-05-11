@@ -3,11 +3,12 @@ Introduction:
 Deep learning is impacting everything from healthcare to transportation to manufacturing, and more. Companies are turning to deep learning to solve hard problems, like speech recognition, object recognition, and machine translation.
 
 What is deep learning:
-sub-domain of AI, Broadly speaking, deep learning is a more approachable name for an artificial neural network. The ìdeepî in deep learning refers to the depth of the network. An artificial neural network can be very shallow.
+sub-domain of AI, Broadly speaking, deep learning is a more approachable name for an artificial neural network. The ‚Äúdeep‚Äù in deep learning refers to the depth of the network. An artificial neural network can be very shallow.
 
 Neural networks are inspired by the structure of the cerebral cortex. At the basic level is the perceptron, the mathematical representation of a biological neuron. Like in the cerebral cortex, there can be several layers of interconnected perceptrons.
 
 
 
+Benefits of deep learning
 
 Deep learning plays a great role in computer vision and speech recognition.we will present deep learning demo here:
