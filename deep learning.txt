@@ -9,6 +9,7 @@ Neural networks are inspired by the structure of the cerebral cortex. At the bas
 
 
 
-Benefits of deep learning
+Benefits of deep learning domiansd
+
 
 Deep learning plays a great role in computer vision and speech recognition.we will present deep learning demo here:
