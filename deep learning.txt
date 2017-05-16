@@ -5,7 +5,7 @@ Deep learning is impacting everything from healthcare to transportation to manuf
 What is deep learning:
 sub-domain of AI, Broadly speaking, deep learning is a more approachable name for an artificial neural network. The “deep” in deep learning refers to the depth of the network. An artificial neural network can be very shallow.
 
-Neural networks are inspired by the structure of the cerebral cortex. At the basic level is the perceptron, the mathematical representation of a biological neuron. Like in the cerebral cortex, there can be several layers of interconnected perceptrons.
+Neural networks are inspired by the structure of the cerebral cortex. At the basic level is the perceptron, the mathematical representation of a biological neuron. Like in the cerebral cortex, there can be several layers of interconnected perceptrons. So, an Artifical Neural Network had input layer consisting of multiply nodes(neurons) that connects to outside word(input variables) and hidden layers have multiple nodes connected to each other and finally the output layer to which class label is attached.
 
 
 
