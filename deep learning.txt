@@ -7,9 +7,5 @@ sub-domain of AI, Broadly speaking, deep learning is a more approachable name fo
 
 Neural networks are inspired by the structure of the cerebral cortex. At the basic level is the perceptron, the mathematical representation of a biological neuron. Like in the cerebral cortex, there can be several layers of interconnected perceptrons. So, an Artifical Neural Network had input layer consisting of multiply nodes(neurons) that connects to outside word(input variables) and hidden layers have multiple nodes connected to each other and finally the output layer to which class label is attached.
 
+Deep learning plays a great role in computer vision, natural language processing and speech recognition.we will present deep learning demo  here:
 
-
-Benefits of deep learning domiansd
-
-
-Deep learning plays a great role in computer vision, natural language processing and speech recognition.we will present deep learning demo here:
