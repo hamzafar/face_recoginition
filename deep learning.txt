@@ -1,6 +1,6 @@
 Introduction:
 
-Deep learning is impacting everything from healthcare to transportation to manufacturing, and more. Companies are turning to deep learning to solve hard problems, like speech recognition, object recognition, and machine translation. Apple uses deep learning in Siri, voice assistant application and Memories images organization application. Google uses extensively deep learning and changing the world of AI in Google Brain team; some of projects ranging from images classification to image captioning. 
+Deep learning is impacting everything from healthcare to transportation to manufacturing, and more. Companies are turning to deep learning to solve hard problems, like speech recognition, object recognition, and machine translation. Apple uses deep learning in Siri, voice assistant application and Memories images organization application. Google uses extensively deep learning and changing the world of AI in Google Brain team. Facebook’s Face Detection and Car Collision detection from Mobileye; some of projects ranging from images classification to image captioning. 
 
 What is deep learning:
 sub-domain of AI, Broadly speaking, deep learning is a more approachable name for an artificial neural network. The “deep” in deep learning refers to the depth of the network. An artificial neural network can be very shallow.
@@ -12,4 +12,4 @@ Neural networks are inspired by the structure of the cerebral cortex. At the bas
 Benefits of deep learning domiansd
 
 
-Deep learning plays a great role in computer vision and speech recognition.we will present deep learning demo here:
+Deep learning plays a great role in computer vision, natural language processing and speech recognition.we will present deep learning demo here:
