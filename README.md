@@ -9,6 +9,8 @@ For replaciting Visual system, we have used webcam that replicated human eyes to
 2. Transfer learning
   - The Final layers of *InceptionV3* is freezed and faces data is learned on that. The data is scraped from Facebook manually
 
+The whole compiled code can be observed at: https://github.com/hamzafar/face_recoginition/blob/master/blog-draft-ver1.ipynb
+
 ### Foot Notes:
 For installation opencv on python 3.5 follow this tutorial:
 https://www.solarianprogrammer.com/2016/09/17/install-opencv-3-with-python-3-on-windows/
