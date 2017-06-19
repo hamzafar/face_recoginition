@@ -1,4 +1,6 @@
-# Face Recoginition
+# Introduction
+This work is insipration from Human visual system, as we see outer world thorugh our eyes, this information is passed through brain where one third of brain process this information and recognizes objects.
+
 Learn Machine to recognize faces. 
 
 1. base model
