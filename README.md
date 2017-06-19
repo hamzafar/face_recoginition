@@ -11,6 +11,7 @@ For replaciting Visual system, we have used webcam that replicated human eyes to
 
 **The whole compiled code can be observed at: https://github.com/hamzafar/face_recoginition/blob/master/blog-draft-ver1.ipynb**
 
+----
 ### Foot Notes:
 For installation opencv on python 3.5 follow this tutorial:
 https://www.solarianprogrammer.com/2016/09/17/install-opencv-3-with-python-3-on-windows/
@@ -20,3 +21,4 @@ links for transfer learning
 
 https://groups.google.com/forum/#!topic/keras-users/JDnLxlm3sHM; 
 https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+---
